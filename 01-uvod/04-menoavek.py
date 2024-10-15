@@ -6,6 +6,5 @@ if rok >= 2025:
     exit()
 vek = 2024 - rok
 if vek >= 18:
-    print
-print("Meno a priezvisko: ", meno , priezvisko)
-print("Vek: ", vek)
+    print("Meno a priezvisko: ", meno , priezvisko)
+    print("Vek: ", vek)
